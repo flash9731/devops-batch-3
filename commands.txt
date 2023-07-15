@@ -5,3 +5,4 @@ git commit
 git log 
 git restore
 git diff
+git config friend
